@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+
+    <string name="app_name">MemInfoChart</string>
+    <string name="action_stop">停止</string>
+    <string name="start">スタート</string>
+    <string name="stop">停止</string>
+    <string name="reset">リセット</string>
+    <string name="start_service_menu">サービスの開始</string>
+    <string name="stop_service_menu">サービスの停止</string>
+    <string name="settings">設定</string>
+    <string name="updated">一覧を更新しました。</string>
+    <string name="action_refresh">リストを更新</string>
+	<string name="dialog_title_list_preference">お願いします。</string>
+	<string name="summary_list_preference">収集メモリ情報に設定された時間間隔。</string>
+	<string name="title_list_preference">インターバル時間</string>
+	<string name="pref_settings_value">設定</string>
+	<string name="pref_information">情報</string>
+	<string name="export_txt_file">エクスポートtxtファイル</string>
+	<string name="erased_all">すべてのデータは削除されました。</string>
+	<string name="stopped_service">データ収集は停止されている</string>
+	<string name="start_service"><xliff:g id="interval">%s</xliff:g> minuites間隔でデータ収集を開始します。</string>
+	<string name="monkey_test">MonkeyTest</string>
+	<string name="focus_test">集中分析</string>
+	<string name="title_function">機能実行</string>
+	<string name="help_monkey">몽키 테스트를 통해 해당 패키지의 스트레스 테스트를 진행 할 수 있습니다.\n몽키 테스트도 함께 하시겠습니까?\n</string>
+	<string name="err_not_running">このプロセスは、これ以上実行されていません。</string>
+	<string name="stop_popup">集中分析を閉じる</string>
+	<string name="loading">お待ちください。</string>
+	<string name="collecting">プロセス情報の収集..</string>	
+	<string name="close">クローズ</string>
+	<string name="already_started">すでに開始。</string>
+	<string name="no_service_started">何も止められないです。</string>
+	<string name="delete_db">すべてのメモリ情報が削除されます。</string>
+	<string name="ok">確認</string>
+	<string name="cancel">キャンセル</string>
+</resources>

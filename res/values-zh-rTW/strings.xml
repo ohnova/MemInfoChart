@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+
+    <string name="app_name">MemInfoChart</string>
+    <string name="action_stop">停止</string>
+    <string name="start">開始</string>
+    <string name="stop">停止</string>
+    <string name="reset">初始化</string>
+    <string name="start_service_menu">啟動服務</string>
+    <string name="stop_service_menu">服務中斷</string>
+    <string name="settings">設置</string>
+    <string name="updated">該列表被更新。</string>
+    <string name="action_refresh">更新列表</string>
+	<string name="dialog_title_list_preference">挑選。</string>
+	<string name="summary_list_preference">指定的時間間隔在內存中收集信息。</string>
+	<string name="title_list_preference">間隔時間</string>
+	<string name="pref_settings_value">設置</string>
+	<string name="pref_information">信息</string>
+	<string name="erased_all">所有的數據已經被刪除。</string>
+	<string name="stopped_service">收集的數據已被停止。.</string>
+	<string name="start_service">開始收集數據，每<xliff:g id="interval">%s</xliff:g>分鐘。</string>
+	<string name="monkey_test">MonkeyTest 진행</string>
+	<string name="focus_test">強化分析</string>
+	<string name="title_function">履行職能</string>
+	<string name="help_monkey">몽키 테스트를 통해 해당 패키지의 스트레스 테스트를 진행 할 수 있습니다.\n몽키 테스트도 함께 하시겠습니까?\n</string>
+	<string name="err_not_running">這個過程沒有運行任何更多。</string>
+	<string name="stop_popup">強化分析關閉</string>
+	<string name="loading">請耐心等待。</string>
+	<string name="collecting">被收集進程信息。</string>	
+	<string name="close">關閉</string>
+	<string name="already_started">服務已經啟動。</string>
+	<string name="no_service_started">服務不能停止。</string>
+	<string name="delete_db">刪除所有內存信息。</string>	
+	<string name="ok">行</string>
+	<string name="cancel">取消</string>
+</resources>

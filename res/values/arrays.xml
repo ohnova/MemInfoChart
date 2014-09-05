@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string-array name="entries_interval_preference">
+        <item>30 seconds</item>
+        <item>1 minute</item>
+        <item>2 minutes</item>
+        <item>5 minutes</item>
+        <item>10 minutes</item>
+    </string-array>
+    <string-array name="entryvalues_interval_preference">
+        <item>thirty_sec</item>
+        <item>one_min</item>
+        <item>two_min</item>
+        <item>five_min</item>
+        <item>ten_min</item>
+    </string-array>
+
+</resources>

@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+
+    <string name="app_name">MemInfoChart</string>
+    <string name="action_stop">중지</string>
+    <string name="start">시작</string>
+    <string name="stop">중지</string>
+    <string name="reset">초기화</string>
+    <string name="start_service_menu">서비스 시작</string>
+    <string name="stop_service_menu">서비스 중단</string>
+    <string name="settings">설정</string>
+    <string name="updated">리스트가 갱신되었습니다.</string>
+    <string name="action_refresh">리스트의 갱신</string>
+	<string name="dialog_title_list_preference">고르세요.</string>
+	<string name="summary_list_preference">메모리 정보 수집에 대한 interval을 정합니다.</string>
+	<string name="title_list_preference">Interval Time</string>
+	<string name="pref_settings_value">설정</string>
+	<string name="pref_information">정보</string>
+	<string name="erased_all">모든 데이터를 삭제했습니다.</string>
+	<string name="stopped_service">데이터 수집을 중단했습니다.</string>
+	<string name="start_service">데이터 수집을 <xliff:g id="interval">%s</xliff:g>분 간격으로 시작합니다.</string>
+	<string name="monkey_test">MonkeyTest 진행</string>
+	<string name="focus_test">집중 분석</string>
+	<string name="title_function">기능 수행</string>
+	<string name="help_monkey">몽키 테스트를 통해 해당 패키지의 스트레스 테스트를 진행 할 수 있습니다.\n몽키 테스트도 함께 하시겠습니까?\n</string>
+	<string name="err_not_running">running process가 아닙니다.</string>
+	<string name="stop_popup">집중분석 닫기</string>
+	<string name="loading">Please Wait</string>
+	<string name="collecting">프로세스 정보를 수집중입니다..</string>	
+	<string name="close">닫기</string>
+	<string name="already_started">서비스가 이미 시작했습니다.</string>
+	<string name="no_service_started">중지할 서비스가 없습니다.</string>
+	<string name="delete_db">모든 메모리 정보가 삭제됩니다.</string>
+	<string name="ok">확인</string>
+	<string name="cancel">취소</string>
+</resources>

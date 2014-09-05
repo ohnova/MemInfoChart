@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+
+    <string name="app_name">MemInfoChart</string>
+    <string name="action_stop">stop</string>
+    <string name="start">Start</string>
+    <string name="stop">Stop</string>
+    <string name="reset">Reset</string>
+    <string name="start_service_menu">Start Service</string>
+    <string name="stop_service_menu">Stop Service</string>
+    <string name="settings">Settings</string>
+    <string name="updated">List has been updated.</string>
+    <string name="action_refresh">Refresh List</string>
+	<string name="dialog_title_list_preference">Choose Please.</string>
+	<string name="summary_list_preference">Set time interval for memory information collecting.</string>
+	<string name="title_list_preference">Interval Time</string>
+	<string name="pref_settings_value">Settings</string>
+	<string name="pref_information">Information</string>
+	<string name="version">ReadMe</string>
+	<string name="export_txt_file">Export Txt File</string>
+	<string name="erased_all">All data has been deleted.</string>
+	<string name="stopped_service">Data collecting has been stopped.</string>
+	<string name="start_service">Start data collecting at interval of <xliff:g id="interval">%s</xliff:g> minuites.</string>
+	<string name="monkey_test">MonkeyTest</string>
+	<string name="focus_test">Concentrate Analysis</string>
+	<string name="title_function">Execute Function</string>
+	<string name="help_monkey">몽키 테스트를 통해 해당 패키지의 스트레스 테스트를 진행 할 수 있습니다.\n몽키 테스트도 함께 하시겠습니까?\n</string>
+	<string name="err_not_running">This process is not running any more.</string>
+	<string name="stop_popup">Close Concentrate Analysis</string>
+	<string name="loading">Please Wait</string>
+	<string name="collecting">Collecting Process Information..</string>	
+	<string name="close">Close</string>
+	<string name="already_started">Already Started.</string>
+	<string name="no_service_started">Nothing to stop.</string>
+	<string name="ad_unit_id">ca-app-pub-2736235758520293/6303196362</string>
+	<string name="delete_db">All memory information data will be deleted.</string>
+	<string name="ok">OK</string>
+	<string name="cancel">Cancel</string>
+</resources>
